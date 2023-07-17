@@ -1,2 +1,2 @@
-# Unreality Machine Companion
+Unreality Machine Companion
 Prototype companion app for a card game
